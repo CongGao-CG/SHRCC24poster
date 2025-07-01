@@ -1,2 +1,1 @@
-# SHRCC24 Poster
-Please click https://conggao-cg.github.io/SHRCC24poster
+# 2024 Symposium on Hurricane Risk in a Changing Climate (SHRCC24) Best Poster
